@@ -8,7 +8,7 @@ Cookie Run Name Generator
   </kbd>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/language-vb.net-blue">
+  <img src="https://img.shields.io/badge/language-vb.net%202010-blue">
   <img src="https://img.shields.io/github/languages/top/Bang1338/Cookie-Run-Name-Generator">
 </p>
 <h3 align="center">
