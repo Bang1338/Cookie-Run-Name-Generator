@@ -4,7 +4,7 @@ Cookie Run Name Generator
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/779629784509579288/1005634704189440210/bcse_banner.png">
+<img src="https://media.discordapp.net/attachments/954077931360124939/1017975469104173128/bruh.png">
   </kbd>
 </p>
 <p align="center">
