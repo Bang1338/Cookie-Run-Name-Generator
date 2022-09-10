@@ -24,7 +24,7 @@ Generating custom Cookie Run name for you!
 * Or... just download binary file in release lmao
 * 2 - Make a folder for exe file, and put ```config.ini``` where your/my exe file located
 * 3- There's no step 3, just run it.
-* How to make your own ```config.ini``` file [here]](https://github.com/Bang1338/Cookie-Run-Name-Generator/blob/main/config.md)
+* How to make your own ```config.ini``` file [here](https://github.com/Bang1338/Cookie-Run-Name-Generator/blob/main/config.md)
 
 ### Preview:
 <p align="center">
