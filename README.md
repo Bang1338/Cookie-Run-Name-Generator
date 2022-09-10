@@ -8,7 +8,7 @@ Cookie Run Name Generator
   </kbd>
 </p>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/954077931360124939/1017975469104173128/bruh.png?width=668&height=192">
+  <img src="https://img.shields.io/badge/language-vb.net-blue">
   <img src="https://img.shields.io/github/languages/top/Bang1338/Cookie-Run-Name-Generator">
 </p>
 <h3 align="center">
