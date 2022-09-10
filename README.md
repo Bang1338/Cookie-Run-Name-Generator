@@ -34,6 +34,7 @@ GUI:
 
 ### Todo:
 - [ ] ```config.ini``` maker and save
+- [ ] Create other version, except it's make in C++
 
 ### Changelog:
 * 1.0 - First program, what do you expect?
