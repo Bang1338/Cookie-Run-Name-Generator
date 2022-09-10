@@ -1,9 +1,0 @@
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\bin\Debug\Cookie Run Name Generator.exe
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\bin\Debug\Cookie Run Name Generator.pdb
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\bin\Debug\Cookie Run Name Generator.xml
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\obj\x86\Debug\Cookie_Run_Name_Generator.Form1.resources
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\obj\x86\Debug\Cookie_Run_Name_Generator.Resources.resources
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\obj\x86\Debug\Cookie Run Name Generator.vbproj.GenerateResource.Cache
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\obj\x86\Debug\Cookie Run Name Generator.exe
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\obj\x86\Debug\Cookie Run Name Generator.xml
-C:\Users\Admin\documents\visual studio 2010\Projects\Cookie Run Name Generator\Cookie Run Name Generator\obj\x86\Debug\Cookie Run Name Generator.pdb
