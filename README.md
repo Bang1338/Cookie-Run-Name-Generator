@@ -31,7 +31,13 @@ Generating custom Cookie Run name for you!
 ## Preview:
 <p align="center">
 GUI:
+</p>
+<p align="center">
 <img class="center" src="https://user-images.githubusercontent.com/75790567/189508533-545ce2f1-b994-41ea-8844-08a08672379a.png" alt="CRNG lol"/>
+</p>
+
+<p align="center">
+CLI soon.
 </p>
 
 ## Todo:
