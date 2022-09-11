@@ -46,3 +46,8 @@ GUI:
 ### Special thank:
 - AliivBR (Applemind): Idea
 - Clulutchi: [First program made in Scratch 3](https://cdn.discordapp.com/attachments/954067289475539094/1010647519493099600/cookie_run_name_generator.sb3)
+
+### You can use my code, but remember:
+<p align="center">
+    <img src="https://media.discordapp.net/attachments/954077931360124939/1018386384345649172/i_did.png">
+</p>
