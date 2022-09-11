@@ -29,12 +29,12 @@ Generating custom Cookie Run name for you!
 ### Preview:
 <p align="center">
 GUI:
-<img class="center" src="https://media.discordapp.net/attachments/954077931360124939/1017976892873257080/crng.png?width=392&height=473" alt="CRNG lol"/>
+<img class="center" src="![image](https://user-images.githubusercontent.com/75790567/189508533-545ce2f1-b994-41ea-8844-08a08672379a.png)" alt="CRNG lol"/>
 </p>
 
 ### Todo:
 - [ ] ```config.ini``` maker and save
-- [ ] **P U R E  R A N D O M**
+- [ ] **P U R E  R A N D O M** (done)
 - [ ] Create other version, except it's make in C++
 
 ### Changelog:
