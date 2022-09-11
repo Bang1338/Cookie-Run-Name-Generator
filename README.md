@@ -29,7 +29,7 @@ Generating custom Cookie Run name for you!
 ### Preview:
 <p align="center">
 GUI:
-<img class="center" src="![image](https://user-images.githubusercontent.com/75790567/189508533-545ce2f1-b994-41ea-8844-08a08672379a.png)" alt="CRNG lol"/>
+<img class="center" src="https://user-images.githubusercontent.com/75790567/189508533-545ce2f1-b994-41ea-8844-08a08672379a.png" alt="CRNG lol"/>
 </p>
 
 ### Todo:
@@ -39,6 +39,7 @@ GUI:
 
 ### Changelog:
 * 1.0 - First program, what do you expect?
+* 1.1 - Added **P U R E  R A N D O M**
 
 ### Special thank:
 - AliivBR (Applemind): Idea
