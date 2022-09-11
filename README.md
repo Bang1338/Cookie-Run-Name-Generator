@@ -11,6 +11,7 @@ Cookie Run Name Generator
   <img src="https://img.shields.io/badge/language-vb.net%202010-blue">
   <img src="https://img.shields.io/github/languages/top/Bang1338/Cookie-Run-Name-Generator">
   <img src="https://img.shields.io/badge/version-1.1-green">
+  <img src="https://img.shields.io/twitter/follow/bang1338?color=blue&logo=Twitter&logoColor=blue&style=social">
 </p>
 <h3 align="center">
 Generating custom Cookie Run name for you!
