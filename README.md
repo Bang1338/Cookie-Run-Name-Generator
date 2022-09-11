@@ -34,7 +34,7 @@ GUI:
 
 ### Todo:
 - [ ] ```config.ini``` maker and save
-- [ ] **P U R E  R A N D O M** (done)
+- [x] **P U R E  R A N D O M** (done)
 - [ ] Create other version, except it's make in C++
 
 ### Changelog:
