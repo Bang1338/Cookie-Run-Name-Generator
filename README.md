@@ -10,7 +10,7 @@ Cookie Run Name Generator
 <p align="center">
   <img src="https://img.shields.io/badge/language-vb.net%202010-blue">
   <img src="https://img.shields.io/github/languages/top/Bang1338/Cookie-Run-Name-Generator">
-  <img src="https://img.shields.io/badge/version-1.1-green">
+  <img src="https://img.shields.io/badge/version-1.2-green">
   <img src="https://img.shields.io/twitter/follow/bang1338?color=blue&logo=Twitter&logoColor=blue&style=social">
 </p>
 <h3 align="center">
@@ -33,7 +33,7 @@ Generating custom Cookie Run name for you!
 GUI:
 </p>
 <p align="center">
-<img class="center"  src="https://user-images.githubusercontent.com/75790567/189508533-545ce2f1-b994-41ea-8844-08a08672379a.png" alt="CRNG lol"/>
+<img class="center"  src="https://cdn.discordapp.com/attachments/954077931360124939/1018897086902710333/crng3.png" alt="CRNG lol"/>
 </p>
 
 <p align="center">
