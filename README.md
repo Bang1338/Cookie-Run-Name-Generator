@@ -50,6 +50,7 @@ CLI soon.
 ## Changelog:
 * 1.0 - First program, what do you expect?
 * 1.1 - Added **P U R E  R A N D O M**
+* 1.2 - Added ConfigMaker (Make Config) and Help (contain How to use and About)
 
 ## Special thank:
 - AliivBR (Applemind): Idea
