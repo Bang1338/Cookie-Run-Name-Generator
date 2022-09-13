@@ -20,6 +20,8 @@ Generating custom Cookie Run name for you!
 ## Features:
 - [X] Generate name
 - [X] Load custom config using ```config.ini``` file
+- [x] ```config.ini``` maker
+- [x] **P U R E  R A N D O M**
 
 ## Installation:
 * 1 - Make exe file using Visual Basic 2010 or Visual Studio 2010 or higher (please use Visual Studio 2019 or 2022 lol)
@@ -41,7 +43,7 @@ CLI soon.
 </p>
 
 ## Todo:
-- [ ] ```config.ini``` maker and save
+- [x] ```config.ini``` maker and save (done)
 - [x] **P U R E  R A N D O M** (done)
 - [ ] Create other version, except it's make in C++
 
